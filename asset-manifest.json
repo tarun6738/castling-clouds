@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/castling-clouds/static/css/main.a099389b.css",
-    "main.js": "/castling-clouds/static/js/main.c17bb21f.js",
+    "main.js": "/castling-clouds/static/js/main.157db7c3.js",
     "index.html": "/castling-clouds/index.html",
     "main.a099389b.css.map": "/castling-clouds/static/css/main.a099389b.css.map",
-    "main.c17bb21f.js.map": "/castling-clouds/static/js/main.c17bb21f.js.map"
+    "main.157db7c3.js.map": "/castling-clouds/static/js/main.157db7c3.js.map"
   },
   "entrypoints": [
     "static/css/main.a099389b.css",
-    "static/js/main.c17bb21f.js"
+    "static/js/main.157db7c3.js"
   ]
 }
