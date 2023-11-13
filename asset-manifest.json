@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/castling-clouds/static/css/main.a099389b.css",
+    "main.js": "/castling-clouds/static/js/main.c17bb21f.js",
+    "index.html": "/castling-clouds/index.html",
+    "main.a099389b.css.map": "/castling-clouds/static/css/main.a099389b.css.map",
+    "main.c17bb21f.js.map": "/castling-clouds/static/js/main.c17bb21f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a099389b.css",
+    "static/js/main.c17bb21f.js"
+  ]
+}
