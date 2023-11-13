@@ -1,11 +1,11 @@
 import React from 'react'
 export const WeatherIcons={
-    sunset:"/icons/temp.svg",   
-    sunrise:"/icons/temp.svg",
-    humidity:"/icons/humidity.svg",
-    wind:"/icons/wind.svg",
-    pressure:"/icons/pressure.svg",
-    
+    sunset:"/castling-clouds/icons/temp.svg",   
+    sunrise:"/castling-clouds/icons/temp.svg",
+    humidity:"/castling-clouds/icons/humidity.svg",
+    wind:"/castling-clouds/icons/wind.svg",
+    pressure:"/castling-clouds/icons/pressure.svg",
+
 };
 const Weatherinfo = (props) => {
     const {name,value}=props

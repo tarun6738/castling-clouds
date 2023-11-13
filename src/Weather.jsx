@@ -1,20 +1,21 @@
 import React from 'react';
 import Weatherinfo from './Weatherinfo';
 export const WeatherIcons = {
-  "01d": "/icons/sunny.svg",
-  "01n": "/night.svg",
-  "02d": "/icons/day.svg",
-  "02n": "/icons/cloudy-night.svg",
-  "03d": "/icons/cloudy.svg",
-  "03n": "/icons/cloudy.svg",
-  "04d": "/icons/perfect-day.svg",
-  "04n": "/icons/cloudy-night.svg",
-  "09d": "/icons/rain.svg",
-  "09n": "/icons/rain-night.svg",
-  "10d": "/icons/rain.svg",
-  "10n": "/icons/rain-night.svg",
-  "11d": "/icons/storm.svg",
-  "11n": "/icons/storm.svg",
+  
+  "01d": "/castling-clouds/icons/sunny.svg",
+  "01n": "/castling-clouds/icons/night.svg",
+  "02d": "/castling-clouds/icons/day.svg",
+  "02n": "/castling-clouds/icons/cloudy-night.svg",
+  "03d": "/castling-clouds/icons/cloudy.svg",
+  "03n": "/castling-clouds/icons/cloudy.svg",
+  "04d": "/castling-clouds/icons/perfect-day.svg",
+  "04n": "/castling-clouds/icons/cloudy-night.svg",
+  "09d": "/castling-clouds/icons/rain.svg",
+  "09n": "/castling-clouds/icons/rain-night.svg",
+  "10d": "/castling-clouds/icons/rain.svg",
+  "10n": "/castling-clouds/icons/rain-night.svg",
+  "11d": "/castling-clouds/icons/storm.svg",
+  "11n": "/castling-clouds/icons/storm.svg",
 };
 const Weather = (props) => {
   const { weather}=props;
